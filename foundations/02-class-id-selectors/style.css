@@ -1,0 +1,21 @@
+
+
+.odd {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.special {
+    font-size: 24px;
+}
+
+#Part2 {
+    color: rgb(0 0 255);
+    font-size: 36px;
+}
+
+#Part4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
